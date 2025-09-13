@@ -1,3 +1,4 @@
+
 # Rock, Paper, Scissors Game
 
 This is a simple Rock, Paper, Scissors game built with Python and Streamlit.
@@ -25,8 +26,8 @@ This is a classic Rock, Paper, Scissors game where you play against the computer
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/SSKlearns/io-extended-gdg-nd.git
+   cd io-extended-gdg-nd
    ```
 
 2. **Create and activate a virtual environment:**
